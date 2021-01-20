@@ -2,7 +2,7 @@
 
 This repository contains the scripts to reproduce the figures in the main text (Fig 2- 8) and supplementary information (Fig S1-S16) of the following article:
 
-MohammadMehdi Kafashan, Anna Jaffe, Selmaan N Chettih, Ramon Nogueira, I&ntilde;igo Arandia-Romero, Christopher D Harvey, Rub&eacute;n Moreno-Bote, Jan Drugowitsch (2020). [Scaling of sensory information in large neural populations reveals signatures of information-limiting correlations]. Under review.
+MohammadMehdi Kafashan, Anna Jaffe, Selmaan N Chettih, Ramon Nogueira, I&ntilde;igo Arandia-Romero, Christopher D Harvey, Rub&eacute;n Moreno-Bote, Jan Drugowitsch (2021). [Scaling of sensory information in large neural populations shows signatures of information-limiting correlations](https://doi.org/10.1038/s41467-020-20722-y). Nature Communications, 12:472, 1-16; doi:org/10.1038/s41467-020-20722-y.
 
 
 ## Preliminaries
